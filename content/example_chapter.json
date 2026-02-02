@@ -1,0 +1,46 @@
+{
+    "chapter": "অধ্যায় 1",
+    "chapter_number": 1,
+    "total_parts": 3,
+    "parts": [
+        {
+            "part": 1,
+            "title": "Part 1 - মূল বিষয়",
+            "content": {
+                "sections": [
+                    {
+                        "type": "text",
+                        "title": "পরিচিতি",
+                        "content": "এখানে Part 1 এর বিষয়বস্তু থাকবে।"
+                    }
+                ]
+            }
+        },
+        {
+            "part": 2,
+            "title": "Part 2 - বিস্তারিত",
+            "content": {
+                "sections": [
+                    {
+                        "type": "text",
+                        "title": "বিস্তারিত আলোচনা",
+                        "content": "এখানে Part 2 এর বিষয়বস্তু থাকবে।"
+                    }
+                ]
+            }
+        },
+        {
+            "part": 3,
+            "title": "Part 3 - পুনরালোচনা",
+            "content": {
+                "sections": [
+                    {
+                        "type": "text",
+                        "title": "সারসংক্ষেপ ও অনুশীলন",
+                        "content": "এখানে Part 3 এর বিষয়বস্তু থাকবে।"
+                    }
+                ]
+            }
+        }
+    ]
+}
