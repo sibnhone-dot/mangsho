@@ -20,6 +20,14 @@
             "phone": "01556781234",
             "password": "fatima789",
             "active": true
+        },
+        {
+            "teacher_id": "T004",
+            "name": "Shahariar Hossain",
+            "phone": "01940085540",
+            "password": "664545664545",
+            "active": true
         }
     ]
+
 }
